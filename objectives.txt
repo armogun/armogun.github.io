@@ -1,0 +1,10 @@
+ Kill your target with crit bolt while the target is flying in a downhill                        .
+ Put darkness on your target while they are crashing into a wall                                 .
+ Boost past your target while they are in first place and beat them by at most half a second     .
+ Your target should shield your dragon in 8th place                                              .
+ Your target should run into your ice placed in or above water                                   .
+ Make your target fall down with chains                                                          .
+ Shoot your target when they have a dragon that you put on them                                  .
+ Crit kill your target three times in a single race in a desert map                              .
+ Make your target roll into an iced magic item in a city map                                     .
+ Use ice to pass your dragon to your target                                                      .

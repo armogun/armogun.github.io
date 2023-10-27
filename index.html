@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <div>
+        <script src="scripts.js"></script>
+        <h1>Armogun Mafia Encryptor</h1>
+        <form>
+            <label for="fname">Your key:</label><br>
+            <input type="text" id="fname" name="fname" style="min-width: 200px"><br><br>
+            <label for="lname">Input:</label><br>
+            <textarea id="lname" name="lname" style="width: 99%; height: 200px"></textarea><br><br>
+            <input type="button" value="Submit" id="button" onclick="decryptText()">
+            <!-- <input type="button" value="Encrypt" onclick="encrypt()"> -->
+        </form>
+        <p id="person"></p>
+        <p id="target"></p>
+        <p id="objective"></p>
+    </div>
+</body>
+
+</html>
